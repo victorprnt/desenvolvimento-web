@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "password": "john123"
+    },
+    {
+      "id": 2,
+      "name": "Alice Smith",
+      "email": "alice.smith@example.com",
+      "password": "alice456"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "password": "bob789"
+    },
+    {
+      "id": 4,
+      "name": "Eva Brown",
+      "email": "eva.brown@example.com",
+      "password": "eva987"
+    },
+    {
+      "id": 5,
+      "name": "Charlie Davis",
+      "email": "charlie.davis@example.com",
+      "password": "charlie321"
+    },
+    {
+      "id": 6,
+      "name": "Sophie Miller",
+      "email": "sophie.miller@example.com",
+      "password": "sophie654"
+    },
+    {
+      "id": 7,
+      "name": "Michael Wilson",
+      "email": "michael.wilson@example.com",
+      "password": "michael789"
+    },
+    {
+      "id": 8,
+      "name": "Olivia White",
+      "email": "olivia.white@example.com",
+      "password": "olivia123"
+    },
+    {
+      "id": 9,
+      "name": "Daniel Lee",
+      "email": "daniel.lee@example.com",
+      "password": "daniel456"
+    },
+    {
+      "id": 10,
+      "name": "Emma Turner",
+      "email": "emma.turner@example.com",
+      "password": "emma654"
+    }
+  ]
+}

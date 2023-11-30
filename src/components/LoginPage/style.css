@@ -1,0 +1,70 @@
+.main-login {
+  width: 100%;
+}
+
+.main-login .container {
+  max-width: 260px;
+  margin: 80px auto 0;
+  background-color: aquamarine;
+  padding: 1.5rem;
+  border-radius: 8px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-login .login-title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 1.25rem;
+  margin: 1.25rem 0 2rem;
+}
+
+.main-login .login-user-info-container {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.main-login .login-user-info-container label{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.login-user-info-container .label-content {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.main-login label {
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.875rem;
+}
+
+.main-login button {
+  width: 100%;
+  height: 30px;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  border: 1px solid #000;
+  background-color: #000;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.main-login button:hover {
+  color: #000;
+  background-color: transparent;
+
+}
+
+.main-login .login-register {
+  margin-top: 24px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.75rem;
+}

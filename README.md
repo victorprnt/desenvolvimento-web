@@ -1,10 +1,13 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It uses JSON server to simulate a backend server, using Axios to connect.
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm run json-server`
 
 ### `npm start`
 

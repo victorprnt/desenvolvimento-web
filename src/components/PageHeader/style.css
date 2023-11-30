@@ -1,0 +1,50 @@
+header {
+  width: 100%;
+  border-bottom: 1px solid #c8c8c8;
+  margin-bottom: 50px;
+}
+
+header .container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+header nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header nav .links-container {
+  display: flex;
+  column-gap: 50px;
+}
+
+header .header-logo img {
+  width: 80px;
+}
+
+header a {
+  text-decoration: none;
+  color: #000;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  padding: 8px;
+
+  transition: 0.2s all ease-in-out;
+}
+
+header a.sign-up {
+  text-decoration: none;
+  border: 1px solid #000;
+  border-radius: 6px;
+}
+
+header a.sign-in:hover {
+  text-decoration: underline;
+}
+
+header a.sign-up:hover {
+  color: #fff;
+  background-color: #000;
+}

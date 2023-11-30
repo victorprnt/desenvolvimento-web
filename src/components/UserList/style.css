@@ -1,0 +1,61 @@
+.main-user-list {
+  width: 100%;
+}
+
+.main-user-list .container {
+ width: 80%;
+ margin: 0 auto;
+  padding: 1.5rem;
+
+}
+
+.main-user-list .user-list-title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 1.25rem;
+  margin: 1.25rem 0 2rem;
+}
+
+.main-user-list .user-list-item {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 0.875rem;
+  line-height: 2;
+  margin-bottom: 16px;
+}
+
+.main-user-list button {
+  padding: 6px;
+  margin-left: 20px;
+  cursor: pointer;
+  
+  border-radius: 4px;
+  font-size: 0.875rem;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+
+.main-user-list .user-list-button-update {
+  border: 1px solid green;
+  background-color: transparent;
+
+  color: green;
+}
+
+.main-user-list .user-list-button-update:hover {
+  background-color: green;
+  color: #fff;
+}
+
+.main-user-list .user-list-button-delete {
+  border: 1px solid red;
+  background-color: transparent;
+  border-radius: 4px;
+
+  color: red;
+}
+
+.main-user-list .user-list-button-delete:hover {
+  background-color: red;
+  color: #fff;
+}
