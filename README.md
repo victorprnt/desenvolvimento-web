@@ -1,4 +1,11 @@
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/0179091f6cf44119a733c62cd2bfa5d6?sid=692df3f6-a381-4d71-a5c6-94a0b79c6601" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/7c7fa96103644703baa25d029b87a714">
+      <p>Re: React App - 30 November 2023 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/7c7fa96103644703baa25d029b87a714">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7c7fa96103644703baa25d029b87a714-with-play.gif">
+    </a>
+  </div>
 
 # Getting Started with Create React App
 
